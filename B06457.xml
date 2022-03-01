@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The virgins A B C. Or, An alphabet of vertuous admonitions, for a chast, modest and well- governed maid. The tune is, The young mans A B C.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681-1684?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06457</idno>
+            <idno type="STC">Wing V637B</idno>
+            <idno type="STC">ESTC R234202</idno>
+            <idno type="EEBO-CITATION">52529069</idno>
+            <idno type="OCLC">ocm 52529069</idno>
+            <idno type="VID">179205</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06457)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179205)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2780:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The virgins A B C. Or, An alphabet of vertuous admonitions, for a chast, modest and well- governed maid. The tune is, The young mans A B C.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Wright, J. Clarke, W. Thackeray, and T. Passinger,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1681-84]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Contains 1 illustration and illuminated capitals.</note>
+                  <note>Reproduction of the original in the Glasgow University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Young women --  Conduct of life --  Poetry --  17th century.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:179205:1" rendition="simple:additions"/>
+            <head>The Virgins A. B. C. OR, An Alhpabet of Vertuous Admonitions, for a Chaſt, Modeſt, and well-governed Maid.</head>
+            <opener>
+               <hi>The Tune is,</hi> The Young-Mans A. B. C.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg>LL you faithful Virgins,</l>
+               <l>to this ſong give ear,</l>
+               <l>And learn theſe Leſſons,</l>
+               <l>which are taught you here:</l>
+               <l>An Alphabet of Vertues,</l>
+               <l>are here ſet,</l>
+               <l>Being learn'd</l>
+               <l>will make a Maid compleat</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">B</seg>Ear not a ſcornful mind,</l>
+               <l>although you are</l>
+               <l>Beautious as <hi>Hellen,</hi>
+               </l>
+               <l>or like <hi>Venus</hi> fair:</l>
+               <l>It ill becomes a</l>
+               <l>forehead ſmooth and white,</l>
+               <l>To threaten anger</l>
+               <l>in a Lovers ſight.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">C</seg>Huſe thou a modeſt</l>
+               <l>carriage, and ſtill be</l>
+               <l>Courteous and not too coy,</l>
+               <l>in company:</l>
+               <l>Their nature's changing,</l>
+               <l>and too much unkind,</l>
+               <l>Who hath a comely face</l>
+               <l>and ſcornful mind.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">D</seg>Iſdainful never ſeem,</l>
+               <l>nor yet too much</l>
+               <l>Dote on your faces beauty,</l>
+               <l>ſlighting ſuch</l>
+               <l>As ſue for Love,</l>
+               <l>leaſt creeping age come on</l>
+               <l>And then to late,</l>
+               <l>your folly you bemoan.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">E</seg>Xchange no love</l>
+               <l>but always conſtant be,</l>
+               <l>Eſteem true Love,</l>
+               <l>a perfect treaſury:</l>
+               <l>For where true love</l>
+               <l>and beauty doth unite,</l>
+               <l>It yields both parties</l>
+               <l>both their hearts delight.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">F</seg>Eign no affection,</l>
+               <l>but where vows are paſt,</l>
+               <l>Fix there your heart,</l>
+               <l>there let your love be plac't</l>
+               <l>For if by feigned wiles,</l>
+               <l>loves knot be ty'd,</l>
+               <l>It breeds diſſention,</l>
+               <l>'twixt the Groom &amp; Bride.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">G</seg>Row not too proud,</l>
+               <l>though ſmiling fortune do</l>
+               <l>Great ſtore of wealth, and</l>
+               <l>her beſt gifts beſtow:</l>
+               <l>For pride the Proverb ſays,</l>
+               <l>muſt have a fall,</l>
+               <l>And ſo muſt Maidens,</l>
+               <l>widdows, wives, and all.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">H</seg>Aſt not too much for</l>
+               <l>marriage, nor the thing,</l>
+               <l>Which doth not pleasure</l>
+               <l>but doth ſorrow bring:</l>
+               <l>For haſty lovers</l>
+               <l>often do deſtroy,</l>
+               <l>Their ſweets of Love,</l>
+               <l>e're they their hopes injoy.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">I</seg>F you do chuſe a man</l>
+               <l>whom you affect,</l>
+               <l>Injure him not,</l>
+               <l>with any diſreſpect:</l>
+               <l>But wary be, and</l>
+               <l>e're loves knot you tye,</l>
+               <l>Prove firſt your own,</l>
+               <l>and then his conſtancy.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">K</seg> Knowledge is gained by</l>
+               <l>experience, and by this,</l>
+               <l>Thou may'ſt arrive</l>
+               <l>unto the height of bliſs;</l>
+               <l>Firſt try, then tru<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>the which when you have prov'd</l>
+               <l>You both may love</l>
+               <l>and be as well belov'd.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">L</seg>Ook e're you leap,</l>
+               <l>the proverb ſtill doth ſay,</l>
+               <l>Let not ſmooth tongues</l>
+               <l>your love to Luſt betray:</l>
+               <l>In faireſt Graſs</l>
+               <l>a Snake is often found,</l>
+               <l>And ſmootheſt tongues,</l>
+               <l>with falſhood much abound</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">M</seg>Oan not too much,</l>
+               <l>nor be thou always ſad,</l>
+               <l>Mirth ſometimes may</l>
+               <l>became a vertuous Maid:</l>
+               <l>Yet uſe not too much</l>
+               <l>laughter, leſt you be</l>
+               <l>Slighted and ſcorn'd,</l>
+               <l>for your immodeſty.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">N</seg>Or uſe uncivil talk,</l>
+               <l>or geſture light,</l>
+               <l>Nor in unſeemly</l>
+               <l>wantonneſs delight:</l>
+               <l>But keep chaſt behavour,</l>
+               <l>that you may</l>
+               <l>Have good report,</l>
+               <l>in every kind of way.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">O</seg>Ffend not with a foul</l>
+               <l>and ſlandrous tongue,</l>
+               <l>Of them that do not</l>
+               <l>think thee any wrong;</l>
+               <l>But ſpeak thou well of all,</l>
+               <l>and always do</l>
+               <l>With others as you would</l>
+               <l>have them to do with you.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">P</seg>Aint not your beauty</l>
+               <l>when it is decay'd,</l>
+               <l>Prize not that for,</l>
+               <l>a jewel that will fade,</l>
+               <l>And when you've done,</l>
+               <l>the beſt will fade away,</l>
+               <l>And through red Cheeks,</l>
+               <l>a wrinkled brow diſplay.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">Q</seg>Vench in thy ſelf</l>
+               <l>all luſts inflaming fires,</l>
+               <l>Which may provoke thee</l>
+               <l>to ſuch unchaſt deſires:</l>
+               <l>For though a while ſuch</l>
+               <l>pleaſure pleaſe thy mind,</l>
+               <l>Yet ſorrow, want,</l>
+               <l>and beggary comes behind.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">R</seg>Emember next,</l>
+               <l>how like a fading flower,</l>
+               <l>The earths beſt treaſures</l>
+               <l>vaniſh in an hour:</l>
+               <l>And now the beſt of things</l>
+               <l>you can enjoy,</l>
+               <l>The Sithe of tune ſhall cut,</l>
+               <l>and death deſtroy.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">S</seg>Eek therefore richer</l>
+               <l>gifts then he can give,</l>
+               <l>So ſhalt thou in a ſtate</l>
+               <l>moſt ſurely live:</l>
+               <l>For though fair beauty,</l>
+               <l>deck thy outward part,</l>
+               <l>Yet inward vertue</l>
+               <l>beſt adorns thy heart.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>Ry that rich jem, which</l>
+               <l>when thou haſt attain'd,</l>
+               <l>Thou haſt a vertuous Maids</l>
+               <l>chief beauty gain'd:</l>
+               <l>And if fair Vertue</l>
+               <l>do thy courſes ſteer,</l>
+               <l>Like <hi>loves</hi> fair daughter,</l>
+               <l>thou ſhalt bright appear.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">V</seg>Ain beauty's but a triffle,</l>
+               <l>that a while</l>
+               <l>Dame nature lends thee,</l>
+               <l>with a flattering ſmile:</l>
+               <l>Which lovers gaze at,</l>
+               <l>and with greedy hands,</l>
+               <l>Each one would crop its</l>
+               <l>bloſſoms as it ſtands.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Hilſt in its fulleſt ripeneſs</l>
+               <l>it is grown,</l>
+               <l>When 'tis decay'd,</l>
+               <l>their loves are with it gone</l>
+               <l>Let then this he thy care,</l>
+               <l>and chiefeſt ſtrife,</l>
+               <l>To live a vertuous Maid,</l>
+               <l>and honeſt Wife.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">X</seg>Antippe</hi> like the wife</l>
+               <l>of <hi>Socrates,</hi>
+               </l>
+               <l>Affect thou not</l>
+               <l>thy husband to diſpleaſe:</l>
+               <l>Nor with a railing tongue,</l>
+               <l>perſue his will,</l>
+               <l>And in humility,</l>
+               <l>obey him ſtill,</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">Y</seg>Eild not to others, when</l>
+               <l>you once are wed,</l>
+               <l>The pleaſures of</l>
+               <l>your lawful husbands bed:</l>
+               <l>For if you you guilty be</l>
+               <l>of ſuch a fact,</l>
+               <l>Thou ſhalt not eſcape,</l>
+               <l>unpuniſht for that act.</l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">Z</seg>Ealous be thou in all</l>
+               <l>theſe vertues, prove</l>
+               <l>Both conſtant, chaſt, and</l>
+               <l>loyal to your love:</l>
+               <l>And if theſe Leſſons</l>
+               <l>well you learn, for thee,</l>
+               <l>'Tis truly ſtil'd</l>
+               <l>the Vrigins <hi>A, B, C.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for J. Wright, J. Clarke, W. Thackeray, and T. Paſſinger.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
